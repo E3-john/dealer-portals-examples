@@ -3,9 +3,9 @@ import { ChevronRight } from "lucide-react"
 
 const portals = [
   {
-    name: "TRP Demo",
-    description: "TRP dealer portal demo built on Figma.",
-    url: "https://size-azure-38121369.figma.site/",
+    name: "Airstream Program Enrollment",
+    description: "Airstream dealer program enrollment experience.",
+    url: "https://agreeable-reassurance-629733.framer.app/",
     status: "live",
   },
   {
@@ -21,21 +21,21 @@ const portals = [
     status: "live",
   },
   {
-    name: "Frontend/Backend Demo",
-    description: "Full-stack POC with backend and authentication.",
-    url: "https://poc-production-cd8b.up.railway.app/login",
-    status: "live",
-  },
-  {
-    name: "Airstream Program Enrollment",
-    description: "Airstream dealer program enrollment experience.",
-    url: "https://agreeable-reassurance-629733.framer.app/",
+    name: "TRP Demo",
+    description: "TRP dealer portal demo built on Figma.",
+    url: "https://size-azure-38121369.figma.site/",
     status: "live",
   },
   {
     name: "REV Demo",
     description: "REV dealer portal demo hosted on GitHub Pages.",
     url: "https://elementthree26.github.io/rev-dealer-portal-test/",
+    status: "live",
+  },
+  {
+    name: "Frontend/Backend Demo",
+    description: "Full-stack POC with backend and authentication.",
+    url: "https://poc-production-cd8b.up.railway.app/login",
     status: "live",
   },
 ]
@@ -153,15 +153,15 @@ function App() {
               className="font-bold leading-[1.05] tracking-[-0.02em] mb-10 text-white"
               style={{ fontSize: "clamp(42px, 5vw, 72px)" }}
             >
-              Dealer Portal
+              Dealer Program
               <br />
               Demos
             </h1>
 
             <p className="text-[hsl(0,0%,64%)] text-base leading-[1.65] max-w-md">
-              Working demos of dealer portals built by Element Three.
-              Each example explores a different approach to giving dealer
-              networks the tools they need to market locally.
+              Working demos built by Element Three — from program enrollment
+              and campaign playbooks to full dealer portals. Each example
+              shows a different way to activate and support your dealer network.
             </p>
           </div>
 
