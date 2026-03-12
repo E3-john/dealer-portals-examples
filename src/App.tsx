@@ -11,8 +11,8 @@ const portals = [
   {
     name: "Great Dane Demo",
     description: "Great Dane version of the dealer portal.",
-    url: null,
-    status: "repo",
+    url: "https://gddealerportalexperiencedesign-production.up.railway.app/",
+    status: "live",
   },
   {
     name: "Great Dane Dealer Playbook",
