@@ -29,7 +29,7 @@ const portals = [
   {
     name: "REV Demo",
     description: "REV dealer portal demo hosted on GitHub Pages.",
-    url: "https://elementthree26.github.io/rev-dealer-portal-test/",
+    url: "https://elementthree26.github.io/dealer-connect-portal/Dealer%20Connect%20%E2%80%94%20REV%20Group.html",
     status: "live",
   },
   {
