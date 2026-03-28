@@ -27,9 +27,9 @@ const portals = [
     status: "live",
   },
   {
-    name: "REV Demo",
-    description: "REV dealer portal demo hosted on GitHub Pages.",
-    url: "https://elementthree26.github.io/dealer-connect-portal/Dealer%20Connect%20%E2%80%94%20REV%20Group.html",
+    name: "Dealer Portal Frontend Demo",
+    description: "RV manufacturer dealer portal demo.",
+    url: "https://dealer-connect-portal-production.up.railway.app",
     status: "live",
   },
   {
